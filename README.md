@@ -99,6 +99,14 @@ for i in range (6):
 turtle.end_fill()
 ```
 
+## 여러번 출력
+``` PYTHON
+str = input("입력 문자열:")
+rept = int(input("반복 횟수"))
+
+print((str+"/")*rept)
+```
+
 ## 추가
 ```
 ************************************************
